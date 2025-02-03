@@ -1,41 +1,28 @@
 <h1 align="center">Hi 👋, I'm Domenic</h1>
 <h3 align="center">FREEDOM. HAPPINESS. GROWTH.</h3>
 
-<p align="center">
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-Learn" width="40" height="40" />
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="40" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40" />
-  </a>
-  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="scikit-learn logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
+</div>

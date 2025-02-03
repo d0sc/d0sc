@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Domenic</h1>
-<h3 align="center">FREEDOM. HAPPINESS. GROWTH.</h3>
+<h2 align="center">Hi 👋! I'm Domenic</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />

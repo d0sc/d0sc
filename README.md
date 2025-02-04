@@ -1,9 +1,9 @@
 <h2 align="center">Hi 👋! I'm Domenic</h2>
 
-🔭 I’m currently working on [SIMPLICO](https://www.simplico.de/)
+🔭 Bootstrapped from scratch: [SIMPLICO](https://www.simplico.de/)
 * Simplico offers you personalised recipe suggestions and meal plans that are exactly right for you and your dietary goals.
 * Our intelligent algorithm learns from your preferences to make sure you only see recipes you'll love.
-* I bootstrapped Simplico from scratch to give you the power to easily take control of your nutrition and to find peace in your eating habits again. 
+* SimpliCo gives you the power to take control of your diet and feel good with your eating habits.
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
